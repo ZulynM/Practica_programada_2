@@ -1,0 +1,16 @@
+---
+title: "Practica_progra_3"
+author: "Zulyn Méndez Ovares"
+date: "2023-12-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(plotly)
+library(DT)
+library(openxlsx)
+```
+
